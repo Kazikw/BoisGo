@@ -4,7 +4,7 @@ A robust, RESTful backend application designed for managing sports facilities an
 
 ## 🚀 Tech Stack
 
-*   **Core:** Java 21, Spring Boot 3.x
+*   **Core:** Java 21, Spring Boot 4.0
 *   **Database:** PostgreSQL (Dockerized)
 *   **Data Access:** Spring Data JPA, Hibernate
 *   **Mapping:** MapStruct
