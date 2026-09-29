@@ -16,7 +16,6 @@ import java.util.List;
 @FieldDefaults(level = AccessLevel.PRIVATE)
 public class User {
     @Id
-//    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
     Long id;
     String login;
